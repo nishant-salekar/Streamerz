@@ -49,7 +49,9 @@ npm install
 
 3️⃣ Run the project
 
+npm run dev
+
 🌐 Live Demo
 
 https://streamerz-tau.vercel.app/
-npm run dev  
+  
